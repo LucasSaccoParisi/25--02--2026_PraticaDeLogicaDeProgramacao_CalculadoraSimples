@@ -1,0 +1,1 @@
+# 25--02--2026_PraticaDeLogicaDeProgramacao_CalculadoraSimples
